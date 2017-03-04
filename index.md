@@ -43,3 +43,7 @@ A fonte dos dados é [http://dadosabertos.c3sl.ufpr.br/curitiba/](http://dadosab
 ### Base de Alvarás
 
 -[Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/BaseAlvaras/)
+
+### Receitas / Despesas
+
+-[Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/BaseReceitaDespesa/)
