@@ -39,3 +39,7 @@ A fonte dos dados é [http://dadosabertos.c3sl.ufpr.br/curitiba/](http://dadosab
 ### Agenda PMC
 
 - [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/AgendaPMC/)
+
+### Base de Alvarás
+
+-[Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/BaseAlvaras/)
