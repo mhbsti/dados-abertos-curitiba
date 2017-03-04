@@ -69,3 +69,8 @@ A base de dados contém as vagas disponíveis para estágio na Prefeitura Munici
 O Sistema Municipal de Legislação (Legisladoc) é um sistema destinado a oferecer ao cidadão acesso online aos atos oficiais e ao Diário Oficial Eletrônico do Município. Tem como principais produtos a assinatura digital, a certificação eletrônica, o diário oficial com edições diárias, pesquisa da legislação municipal via intranet e internet, que trazem segurança, confiabilidade, transparência, clareza e publicidade.
 
 - [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/Legisladoc/)
+
+### Oficina de Música
+Dados e informações sobre os cursos da Oficina de Música de Curitiba, que acontece anualmente, no mês de janeiro, nos diversos espaços culturais da cidade.
+
+- [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/OficinaMusica/)
