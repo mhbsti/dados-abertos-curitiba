@@ -26,26 +26,32 @@ Base de dados referente às agendas de eventos, festivais e demais atividades re
 - [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/AgendaPMC/)
 
 ### Base de Alvarás
+Relação de alvarás para liberação de atividades comercias e edificações dentro do município de Curitiba.
 
 - [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/BaseAlvaras/)
 
 ### Receitas / Despesas
+Receitas: Todos os recursos financeiros que a Prefeitura recebe. Despesas: Todos os dispêndios realizados pela Prefeitura para o funcionamento e manutenção dos serviços públicos.
 
 - [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/BaseReceitaDespesa/)
 
 ### Curitiba Empreendedora
+Dados sobre empreendedores atendidos pelos Espaços Empreendedor localizados nas Ruas da Cidadania (capacitações e atendimentos).
 
 - [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/CuritibaEmpreendedora/)
 
 ### Disque Economia
+Base de dados do Programa "Disque Economia". Este sistema viabiliza o serviço prestado pela Secretaria Municipal do Abastecimento de Curitiba, a qual coloca à disposição para consulta o preço de 302 itens que são coletados em 14 supermercados da cidade. A lista dos itens pesquisados é composta por gêneros alimentícios como hortifrutigranjeiros, bebidas, massas, carnes e ainda material de higiene e limpeza, levando em conta quantidades e marcas.
 
 - [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/DisqueEconomia/)
 
 ### Feiras de Curitiba
+Esta base contempla informações sobre os tradicionais equipamentos na história de Curitiba, as Feiras. As feiras se dividem em Feiras Livres volantes Diurnas, Feiras Noturnas, Feiras Gastonômicas, Feiras Orgânicas, Feira do Litoral, Pontos de Pescados, Direto da Roça e Programa Nossa Feira.
 
 - [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/FeirasCuritiba/)
 
 ### Fundação Cultural
+Dados e informações sobre os espaços culturais da cidade, bem como informações vinculadas à Lei de Incentivo à Cultura
 
 - [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/FundacaoCultural/)
 
