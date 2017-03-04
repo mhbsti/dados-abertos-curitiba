@@ -84,3 +84,8 @@ Base de dados referente às entrevistas realizadas com os usuários da Linha Tur
 Base de dados referente às entrevistas realizadas com o público que assiste às principais apresentações de Natal na cidade de Curitiba, entre elas estão o Palácio Avenida, Paço da Liberdade, Hotel Radisson. Os blocos de perguntas estão divididos em procedência do público, informações dos turistas, comportamento, opinião, perfil e sugestões.
 
 - [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/PesquisaNatal/)
+
+### COHAB - Fila de Pretendentes
+Cadastro dos pretendentes de moradias populares de Curitiba.
+
+- [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/PretendentesCohab/)
