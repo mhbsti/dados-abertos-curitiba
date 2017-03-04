@@ -55,3 +55,7 @@ A fonte dos dados é [http://dadosabertos.c3sl.ufpr.br/curitiba/](http://dadosab
 ### Disque Economia
 
 - [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/DisqueEconomia/)
+
+### Feiras de Curitiba
+
+- [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/FeirasCuritiba/)
