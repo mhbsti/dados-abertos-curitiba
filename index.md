@@ -64,3 +64,8 @@ Programação de cursos e eventos promovidos pelo IMAP, Educação e Saúde, par
 A base de dados contém as vagas disponíveis para estágio na Prefeitura Municipal de Curitiba, disponibilizados via Web Service.
 
 - [Documentação WebServices](http://dadosabertos.c3sl.ufpr.br/curitiba/IMAPEstagios/)
+
+### Sistema Municipal de Legislação - LEGISLADOC
+O Sistema Municipal de Legislação (Legisladoc) é um sistema destinado a oferecer ao cidadão acesso online aos atos oficiais e ao Diário Oficial Eletrônico do Município. Tem como principais produtos a assinatura digital, a certificação eletrônica, o diário oficial com edições diárias, pesquisa da legislação municipal via intranet e internet, que trazem segurança, confiabilidade, transparência, clareza e publicidade.
+
+- [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/Legisladoc/)
