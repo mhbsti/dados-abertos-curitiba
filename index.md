@@ -47,3 +47,9 @@ A fonte dos dados é [http://dadosabertos.c3sl.ufpr.br/curitiba/](http://dadosab
 ### Receitas / Despesas
 
 -[Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/BaseReceitaDespesa/)
+
+### Curitiba Empreendedora
+
+-[Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/CuritibaEmpreendedora/)
+
+### Disque Economia
