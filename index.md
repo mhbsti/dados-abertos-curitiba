@@ -1,5 +1,9 @@
 ## Dados abertos Curitiba - Paraná - Brasil
 
+Essa página foi criado no Code Across 2017 para facilitar acesso ao histórico de dados abertos da prefeitura de Curitiba. 
+
+- Equipe Code For Curitiba
+
 You can use the [editor on GitHub](https://github.com/mhbsti/dados-abertos-curitiba/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
