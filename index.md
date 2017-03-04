@@ -59,3 +59,8 @@ Dados e informações sobre os espaços culturais da cidade, bem como informaç�
 Programação de cursos e eventos promovidos pelo IMAP, Educação e Saúde, para os servidores municipais de Curitiba, Região Metropolitana e Comunidade. Na base podemos encontrar o ano de execução dos cursos, a área temática e a carga horária. Quantidade de participantes inscritos e quantidade de participantes certificados.
 
 - [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/IMAPAprendere/)
+
+### Estagio
+A base de dados contém as vagas disponíveis para estágio na Prefeitura Municipal de Curitiba, disponibilizados via Web Service.
+
+- [Documentação WebServices](http://dadosabertos.c3sl.ufpr.br/curitiba/IMAPEstagios/)
