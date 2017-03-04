@@ -1,6 +1,7 @@
 ## Dados abertos Curitiba - Paraná - Brasil
 
-Essa página foi criado no Code Across 2017 para facilitar acesso ao histórico de dados abertos da prefeitura de Curitiba. A fonte dos dados é [http://dadosabertos.c3sl.ufpr.br/curitiba/](http://dadosabertos.c3sl.ufpr.br/curitiba/)
+Essa página foi criado no Code Across 2017 para facilitar acesso ao histórico de dados abertos da prefeitura de Curitiba. 
+A fonte dos dados é [http://dadosabertos.c3sl.ufpr.br/curitiba/](http://dadosabertos.c3sl.ufpr.br/curitiba/)
 
 `Equipe Code For Curitiba`
 
