@@ -74,3 +74,8 @@ O Sistema Municipal de Legislação (Legisladoc) é um sistema destinado a ofere
 Dados e informações sobre os cursos da Oficina de Música de Curitiba, que acontece anualmente, no mês de janeiro, nos diversos espaços culturais da cidade.
 
 - [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/OficinaMusica/)
+
+### Pesquisa da Linha Turismo
+Base de dados referente às entrevistas realizadas com os usuários da Linha Turismo. Os blocos de perguntas estão divididos em procedência do público, informações dos turistas, comportamento, opinião, perfil e sugestões.
+
+- [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/PesquisaLinhaTurismo/)
